@@ -1,16 +1,16 @@
 # Challenge Pewlett-Hackard-Analysis
 
-Pewlett Hackard would seeks insight on future retirements across their organization inorder to make plans to minimize turnover impact to the business.  They have 6 data tables in csv format with employee, department, titles, salary and manager information.  These data tables were placed into a database to allow querries to be built and run so that insights can be extracted.
+Pewlett Hackard seeks insight on future retirements across their organization in order to make plans to minimize turnover impact to the business.  They have 6 data tables in csv format with employee, department, titles, salary and manager information.  These data tables were placed into a database to allow querries to be built and run so that insights can be extracted.
 
 Summary Findings:
     
-    Number of individuals retiring = 36,619, (based on currenty numer of employees born between 1952 and 1956, and hire dates between 1985 and 1989)
+    Number of individuals retiring = 36,619, (based on current number of employees born between 1952 and 1956, and hire dates between 1985 and 1989)
     
     Number of individuals being hired = 32,957 (or 90% of retiring count, expecting 10% role consolidation and productivity improvements through innovation) 
     
     Number of individuals currently employed and born in 1965, which are targetted to be in mentorship program = 1,549
 
-    Further analysis needs to be perfromed on what titles or roles will need to be replaced due to retirements, so that those roles with the greatest pending vacated positions can be targetted for talent development and talent acquisition programs.
+    Further analysis needs to be performed on what titles or roles will need to be replaced due to retirements, so that those roles with the greatest pending vacated positions can be targetted for talent development and talent acquisition programs.
 
 Utized SQL Queries 
 -- Find duplicate titles by emp_no in titles 
